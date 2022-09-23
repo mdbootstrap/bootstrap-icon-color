@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-icon-color",
+  "version": "1.0.0",
+  "description": "Responsive Icon color built with Bootstrap 5. A quick and easy way to change the color of icons.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-icon-color.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "bootstrap-icon-color",
+    "responsive",
+    "responsive-design"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-icon-color/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/icon-color/"
+}
