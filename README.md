@@ -122,6 +122,6 @@ ___
 <li><a href="https://mdbootstrap.com/docs/standard/extended/cookie-consent//">Bootstrap Cookie Consent</a></li>
 <li><a href="https://mdbootstrap.com/docs/standard/extended/table-column-width/">Bootstrap Table column width</a></li>
 <li><a href="https://mdbootstrap.com/docs/standard/extended/dropdown-language-selector/">Bootstrap Dropdown language selector</a></li>
-<li><a href="https://mdbootstrap.com/docs/standard/extended/select-dropdown-with-search/">Select dropdown with search</a></li>
+<li><a href="https://mdbootstrap.com/docs/standard/extended/select-dropdown-with-search/">Bootstrap Select dropdown with search</a></li>
 
 </ul>
